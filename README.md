@@ -12,7 +12,7 @@
 
 ### 1.3 去伪迹
 
-使用EEGLAB工具箱(<https://sccn.ucsd.edu/eeglab/index.php>)对第一步获得的滤波后信号做去伪迹，截断处理，选出最平稳有效的脑电信号
+使用[EEGLAB工具箱](https://sccn.ucsd.edu/eeglab/index.php)对第一步获得的滤波后信号做去伪迹，截断处理，选出最平稳有效的脑电信号
 
 ### 1.4 独立成分分析
 
